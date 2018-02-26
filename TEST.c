@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	//add
+	//add 0002
 	int count = 1;
-	int abc = 0;
 	printf("hello github world");
 	printf("Count : %d", count);
 	// add comment 1
