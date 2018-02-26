@@ -5,4 +5,6 @@ int main(){
 	int abc = 0;
 	printf("hello github world");
 	printf("Count : %d", count);
+	if (abc == 1){
+	}
 }
